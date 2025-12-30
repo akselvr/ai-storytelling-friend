@@ -7,7 +7,9 @@
         "microphone": "*",
         "radio": "*",
         "machine-learning": "github:microbit-foundation/pxt-microbit-ml#v1.0.14",
-        "IoTLoRaNode": "github:pisupply/pxt-iot-lora-node#v0.1.37"
+        "IoTLoRaNode": "github:pisupply/pxt-iot-lora-node#v0.1.37",
+        "audio-recording": "*",
+        "pxt-PlanetX-AI": "github:elecfreaks/pxt-planetx-ai#v1.0.8"
     },
     "files": [
         "main.ts",
